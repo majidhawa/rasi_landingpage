@@ -1,0 +1,224 @@
+.topnav {
+    overflow: hidden;
+    background-color: rgb(56, 173, 56);
+    
+  }
+  body{
+    margin: 10%;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    padding-left: 40%;
+  }
+  
+  
+  .navbar {
+    overflow: hidden;
+  
+    text-align: center
+  }
+  
+  .navbar a {
+    color:white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+  }
+  
+  
+  
+  .navbar a.split {
+    float: left;
+    color: white;
+
+  }
+  #call{
+    width:30px;
+}
+
+  .navbar a.split2 {
+    float: right;
+
+  }
+  .landingpage{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(Images/google-home-decor.jpg);
+  }
+  .text{
+    padding-top: 8%;
+    text-align: center;
+    color: aliceblue;
+  }
+  #h1{
+font-size: 40px;
+  }
+  #p1{
+    color: rgb(102, 94, 94);
+  }
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 25px;
+    color: white;
+    background-color: grey;
+    text-align: center;
+    border-radius: 5px;
+
+  }
+  #bordertext{
+    text-align: center;
+    border-top:  solid 1px black;
+    border-bottom:solid 1px black;
+    font-size: 20px;
+  }
+  #bed{
+    height: 500px;
+    width: 600px;
+    border-radius: 50px;
+  }
+  #Rasi
+  {
+    color: rgb(47, 83, 47);
+    font-size: 17px;
+  }
+ 
+  #know{
+    background-color: green;
+  }
+  #Contact{
+    background-color: aliceblue;
+    color: black;
+    border: 1px solid black;
+    border-radius: 10px;
+    
+  }
+  .page1{
+    display: flex;
+    flex: auto auto;
+    gap: 20%;
+    margin-left: 5%;
+  } 
+  #p2{
+    color: rgb(102, 94, 94);
+    font-size: 20px;
+  }
+  
+  
+  .quality{
+    display: flex;
+    flex: auto auto;
+  }
+  .services{
+    display: flex;
+    flex: auto auto auto auto ;
+    background-color: rgb(209, 220, 226);
+    gap: 14%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+  }
+  .header{
+    text-align: centeR;
+  }
+  .arrays{
+    display: flex;
+    flex: auto auto auto;
+    gap:50px ;
+  }
+  #arrimage{
+    width:450px;
+border-radius: 50px;
+  }
+  .praise{
+    display: flex;
+    flex: 25% 25% 25%;
+    gap:10%;
+    padding-left: 200px;
+ 
+  }
+  .Aditya{
+  display: flex;
+  flex: auto auto auto;
+  gap:50px;
+  background-color: rgb(233, 237, 179);
+  border-radius: 20px;
+  }
+  .Arvind{
+    display: flex;
+    flex: auto auto auto;
+    gap:50px;
+    background-color: rgb(233, 237, 179);
+    border-radius: 20px;
+    }
+    .Mills{
+      display: flex;
+      flex: auto auto auto;
+      gap:50px;
+      background-color: rgb(233, 237, 179);
+      border-radius: 20px;
+      }
+    
+      .page2{
+        display: flex;
+        flex: auto auto;
+        gap: 10%;
+        margin-left: 5%;
+      } 
+      .branding{
+        display: flex;
+
+        gap:4.5%;
+      }
+      .showcase{
+        display: flex;
+        flex: 25% 25% 25%;
+        gap: 30px;
+       
+      }
+      #sc{
+        width: 450px;
+        border-radius: 50px;
+        
+
+      }
+      #image{
+        width: 90%;
+        border-radius: 50px;
+      }
+      .container {
+        position: relative;
+        font-family: Arial;
+      }
+      
+      .text-block {
+        position: absolute;
+        bottom: 100px;
+        left: 50px;
+        background-color: white;
+        color: black;
+        padding-left: 20px;
+        padding-right: 20px;
+      }
+      .maptext{
+        color: black;
+      
+      }
+      #map{
+        background:  linear-gradient(rgba(41, 40, 40, 0.5), rgba(0, 0, 0, 0.5));
+      }
+      #footer{
+        display: flex;
+        gap: 10%;
+        background-color: rgb(34, 32, 32);
+        color: white;
+    }
+    #foot{
+      width:100px;
+      height: 100px;
+      padding-top: 5%;
+    }
